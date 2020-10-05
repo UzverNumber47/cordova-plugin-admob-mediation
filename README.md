@@ -5,5 +5,5 @@ This mediation plugin is compatible with `cordova-plugin-admob-free` and `admob-
 ## Installation
 
 ```sh
-cordova plugin add cordova-plugin-admob-mediation-facebook-2 --save
+cordova plugin add cordova-plugin-admob-mediation-facebook-latest --save
 ```
