@@ -1,12 +1,12 @@
 {
-	"name": "cordova-plugin-admob-mediation-facebook-2",
+	"name": "cordova-plugin-admob-mediation-facebook-latest",
 	"version": "1.0.0",
 	"description": "Cordova AdMob Mediation Plugin for Facebook Audience Network",
 	"scripts": {
 		"version": "sync-package-version --cordova-plugin"
 	},
 	"cordova": {
-		"id": "cordova-plugin-admob-mediation-facebook-2",
+		"id": "cordova-plugin-admob-mediation-facebook-latest",
 		"platforms": [
 			"android",
 			"ios"
