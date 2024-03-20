@@ -1,11 +1,11 @@
-# Cordova AdMob Mediation Plugin for Facebook
+# Cordova AdMob Mediation Plugin
 
 This mediation plugin is compatible with `cordova-plugin-admob-free` and `admob-plus`.
 
 ## Installation
 
 ```sh
-cordova plugin add cordova-plugin-admob-mediation-facebook-latest --save
+cordova plugin add cordova-plugin-admob-mediation --save
 ```
 
 ### If you encounter Build Error  ':app:checkDebugDuplicateClasses'
