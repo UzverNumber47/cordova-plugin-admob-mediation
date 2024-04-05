@@ -11,8 +11,8 @@
     </engines>
 
     <platform name="android">
-        <framework src="com.facebook.android:audience-network-sdk:6.+" />
-        <framework src="com.google.ads.mediation:facebook:6.+" />
+        <framework src="com.facebook.android:audience-network-sdk:6.16.+" />
+        <framework src="com.google.ads.mediation:facebook:6.16.+" />
     </platform>
     <platform name="ios">
         <pods-config ios-min-version="9.0" use-frameworks="true" />
